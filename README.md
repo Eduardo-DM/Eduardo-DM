@@ -15,6 +15,8 @@ The second wave will be two projects one using UIKit and other one using SwiftUI
 A demonstrator of Factory pattern in Augmented Reality context. Goal is create a set of predefined virtual objects and manipulate them without knowledge of RealityKit.
 I intented show the fusion of consolidated practices & an innovate framework. Tradition & disruption.
 
+https://github.com/Eduardo-DM/Factory-Pattern-In-Augmented-Reality
+
 ### Creation of profile background of Linkedin using SwiftUI
 
 
