@@ -17,9 +17,15 @@ I intented show the fusion of consolidated practices & an innovate framework. Tr
 
 https://github.com/Eduardo-DM/Factory-Pattern-In-Augmented-Reality
 
-### Creation of profile background of Linkedin using SwiftUI
+### Layouts-SwiftUI
 
+I think SwiftUI is more than an incredible framework for software developing. It can be used for design layouts and templates with excellent visual results and total control of each component of the creation.
 
+I used SwiftUI to create my background profile in LinekedIn. Code is here
+
+New layouts will be added.
+
+https://github.com/Eduardo-DM/Layouts-SwiftUI
 
 <!--
 **Eduardo-DM/Eduardo-DM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
