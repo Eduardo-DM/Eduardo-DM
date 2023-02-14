@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a junior iOS developer. I'm starting to build my portfolio. If you are a developer I hope you find interesting stuff, any suggestion is wellcome 😄. If you are recruiter and you think I might fit with any apply you can contact me and 💬.
+I am a junior iOS developer. I'm starting to build my portfolio. If you are a developer I hope you find interesting stuff, any suggestion as well as ⭐️ 😉 is wellcome 😄  . If you are recruiting and you think I might fit with any apply you can contact me and 💬.
 
 There are two projects at this moment but number will grow in coming weeks. 
 
