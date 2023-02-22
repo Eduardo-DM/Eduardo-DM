@@ -4,9 +4,9 @@ I am a junior iOS developer. I'm starting to build my portfolio. If you are a de
 
 There are three projects at this moment but number will grow in coming weeks. 
 
-The first wave will be several mini-projects showing something cool ideas and skills.
+The first wave will be several mini-projects showing some cool ideas and skills.
 
-The second wave will be two projects one using UIKit and other one using SwiftUI.
+The second wave will be two projects, one using UIKit and other one using SwiftUI.
 
 ## List of projects:
 
@@ -17,11 +17,11 @@ I intented show the fusion of consolidated practices & an innovate framework. Tr
 
 https://github.com/Eduardo-DM/Factory-Pattern-In-Augmented-Reality
 
-### Swift Chart in action
+### Swift Charts in action
 
 The goal of this repository is show features that can be developed with Swift Charts through different user cases. At this point I will remark the feature where a chart can be used as input of data (chartOverlay is essencial); it goes further than only visualize data.
 
-In parallel to swift chart, the logic for the user cases is done taken TDD approach unitary tests. Intensive use of functional programming.
+In parallel to swift charts, the logic for the user cases is done taken TDD approach & unitary tests. Logic makes intensive use of functional programming.
 
 https://github.com/Eduardo-DM/SwiftCharts-in-action
 
