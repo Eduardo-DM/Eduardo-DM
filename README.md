@@ -2,7 +2,7 @@
 
 I am a junior iOS developer. I'm starting to build my portfolio. If you are a developer I hope you find interesting stuff, any suggestion as well as ⭐️ 😉 is wellcome 😄  . If you are recruiting and you think I might fit with any apply you can contact me and 💬.
 
-There are two projects at this moment but number will grow in coming weeks. 
+There are three projects at this moment but number will grow in coming weeks. 
 
 The first wave will be several mini-projects showing something cool ideas and skills.
 
@@ -16,6 +16,14 @@ A demonstrator of Factory pattern in Augmented Reality context. Goal is create a
 I intented show the fusion of consolidated practices & an innovate framework. Tradition & disruption.
 
 https://github.com/Eduardo-DM/Factory-Pattern-In-Augmented-Reality
+
+### Swift Chart in action
+
+The goal of this repository is show features that can be developed with Swift Charts through different user cases. At this point I will remark the feature where a chart can be used as input of data (chartOverlay is essencial); it goes further than only visualize data.
+
+In parallel to swift chart, the logic for the user cases is done taken TDD approach unitary tests. Intensive use of functional programming.
+
+https://github.com/Eduardo-DM/SwiftCharts-in-action
 
 ### Layouts-SwiftUI
 
