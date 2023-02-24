@@ -17,6 +17,14 @@ I intented show the fusion of consolidated practices & an innovate framework. Tr
 
 https://github.com/Eduardo-DM/Factory-Pattern-In-Augmented-Reality
 
+### UIKit, Core Data and more in a library app
+
+A library for board games. App implements the CRUD cycle. UIKiT is the choosen framework for the UI, Core Data for the persistance. Logic is been implemented with Command design pattern. Everything is carried with TDD & unitary tests approach.
+
+App is in development. It's ready all flow for the Create operation.
+
+https://github.com/Eduardo-DM/UIKit-CoreData
+
 ### Swift Charts in action
 
 The goal of this repository is show features that can be developed with Swift Charts through different user cases. At this point I will remark the feature where a chart can be used as input of data (chartOverlay is essencial); it goes further than only visualize data.
