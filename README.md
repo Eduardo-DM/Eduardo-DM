@@ -21,7 +21,7 @@ https://github.com/Eduardo-DM/Factory-Pattern-In-Augmented-Reality
 
 A library for board games. App implements the CRUD cycle. UIKiT is the choosen framework for the UI, Core Data for the persistance. Logic is been implemented with Command design pattern. Everything is carried with TDD & unitary tests approach.
 
-App is in development. It's ready all flow for the Create operation.
+App is in development. Now, Create & Read operations of CRUD cycle are ready.
 
 https://github.com/Eduardo-DM/UIKit-CoreData
 
