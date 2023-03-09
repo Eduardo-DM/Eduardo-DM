@@ -21,7 +21,7 @@ https://github.com/Eduardo-DM/Factory-Pattern-In-Augmented-Reality
 
 A library for board games. App implements the CRUD cycle. UIKiT is the choosen framework for the UI, Core Data for the persistance. Logic is been implemented with Command design pattern. Everything is carried with TDD & unitary tests approach.
 
-App is in development. Now, Create & Read operations of CRUD cycle are ready.
+App is in development. Now, Create, Read & Update operations of CRUD cycle are ready.
 
 https://github.com/Eduardo-DM/UIKit-CoreData
 
@@ -37,9 +37,11 @@ https://github.com/Eduardo-DM/SwiftCharts-in-action
 
 I think SwiftUI is more than an incredible framework for software developing. It can be used for design layouts and templates with excellent visual results and total control of each component of the creation.
 
-I used SwiftUI to create my background profile in LinekedIn. Code is here
+I used SwiftUI to create my background profile in LinekedIn. Code is here. I empower this template with the use of new iOS16 ViewThatFits to see variants depending of the device dimensions.
 
-New layouts will be added.
+A beatiful card with blur effects, shadows, foregroundStyle and the new type of icon of SF fonts with variable value.
+
+And more layouts will be added.
 
 https://github.com/Eduardo-DM/Layouts-SwiftUI
 
