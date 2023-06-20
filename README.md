@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-I am a junior iOS developer. I'm starting to build my portfolio. If you are a developer I hope you find interesting stuff, any suggestion as well as ⭐️ 😉 is wellcome 😄  . If you are recruiting and you think I might fit with any apply you can contact me and 💬.
-
-There are three projects at this moment but number will grow in coming weeks. 
-
-The first wave will be several mini-projects showing some cool ideas and skills.
-
-The second wave will be two projects, one using UIKit and other one using SwiftUI.
+I am an iOS developer. If you are a developer I hope you find interesting stuff, any suggestion is wellcome as well as give ⭐️ the repository  😉  If you are recruiting and you think I might fit with any apply you can contact me and 💬.
 
 ## List of projects:
 
